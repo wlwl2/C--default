@@ -1,2 +1,2 @@
-# C--default
+# cplusplus-default
 .gitignore: C++, license: MIT License
